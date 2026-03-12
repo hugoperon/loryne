@@ -15,7 +15,7 @@ const caveat = Caveat({
 });
 
 export const metadata: Metadata = {
-  title: "Portfolio Loryne | Joaillerie",
+  title: "Portfolio Loryne | Joaillerie", 
   description:
     "Portfolio artistique - Collection de références, une esthétique commune",
 };
